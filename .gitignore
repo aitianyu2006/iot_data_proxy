@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+.idea/
+.idea/hydra.xml
+.idea/misc.xml
+.idea/sbt.xml
+.idea/workspace.xml
+data_proxy/target/
+project/project/
+project/target/
+target/
